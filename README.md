@@ -2,8 +2,16 @@
 
 # 你好 | Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 💾 工作中
+    - 💾 Currently working
+- 🌱 学习各种东西
+    - 🌱 Learn various things
+- 🏃 减肥中
+    - 🏃 Losing weight
+- ☀️ 喜欢科技、美食、旅行、骑行
+    - ☀️ I enjoy technology, food, travel, cycling, and fitness
+- 💬 联系邮箱：lindorx@163.com
+    - 💬 Email: lindorx@163.com
 
 ## Some technologies
 
